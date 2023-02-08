@@ -1,0 +1,8 @@
+230208 durack1
+
+This file contains attribution for all graphics objects included in this repo
+
+Source webpage https://powerpedia.energy.gov/wiki/File:DOE_Seal_Color.svg
+
+*px-DOE_Seal_Color.png https://powerpedia.energy.gov/w/index.php?curid=8832
+*x*px-DOE_Logo_Color.png https://powerpedia.energy.gov/w/index.php?curid=9494

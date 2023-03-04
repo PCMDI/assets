@@ -1,0 +1,9 @@
+230303 durack1
+
+This file contains attribution for all graphics objects included in this repo
+
+Source webpage https://logos-download.com/48769-met-office-logo-download.html
+
+700px-Met_Office_LogoBLACK.png https://logos-download.com/wp-content/uploads/2019/11/Met_Office_Logo-700x700.png
+Met_Office_Logo.cdr https://logos-download.com/wp-content/uploads/2019/11/Met_Office_Logo.cdr
+

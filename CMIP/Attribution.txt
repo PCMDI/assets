@@ -1,0 +1,9 @@
+230721 durack1
+
+This file contains attribution for all graphics objects included in this repo
+
+https://wcrp-cmip.onlyoffice.eu/Products/Files/#2906703
+
+CMIP_Logo_RGB_Negative.png
+CMIP_Logo_RGB_Positive.png
+

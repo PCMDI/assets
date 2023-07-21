@@ -1,0 +1,8 @@
+230721 durack1
+
+This file contains attribution for all graphics objects included in this repo
+
+Source dir ~/sync/Docs/admin/LLNL/Logos/170111_PCMDI-PMP
+
+230721_PCMDI-Logo-NoText-square-png8-100px.png
+

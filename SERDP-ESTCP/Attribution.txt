@@ -1,0 +1,8 @@
+250606 durack1
+
+This file contains attribution for all graphics objects included in this repo
+
+Source webpage https://serdp-estcp.mil/page/4829e8ec-50b2-46f5-80e9-6417c5fdbbe4
+
+3072x841px-ESTCP_Logo-01.png - https://sepub-prod-0001-124733793621-us-gov-west-1.s3.us-gov-west-1.amazonaws.com/s3fs-public/2024-07/ESTCP_Logo-01.png?VersionId=lFr8WxI6QiNwlUpnzlusWh1zRf1eQGPL
+3072x841px-SERDP_Logo-01.png - https://sepub-prod-0001-124733793621-us-gov-west-1.s3.us-gov-west-1.amazonaws.com/s3fs-public/2024-07/SERDP_Logo-01.png?VersionId=qtgJLTBLJS5AmMXWC8Ni60zUFMFAcsEB
